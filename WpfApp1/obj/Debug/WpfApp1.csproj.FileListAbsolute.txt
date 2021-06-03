@@ -1,0 +1,96 @@
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WebDriver.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WebDriver.xml
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.AWT.WinForms.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Beans.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Corba.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Localedata.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Management.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Media.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Misc.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Naming.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Tools.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.Runtime.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\IKVM.Runtime.JNI.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WebDriver.Support.dll
+D:\Projects\BMWUD\Selenium\WpfApp1\WpfApp1\bin\Debug\WebDriver.Support.xml
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.AWT.WinForms.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Beans.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Charsets.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Corba.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Localedata.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Management.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Media.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Misc.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Naming.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Remoting.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Tools.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.Runtime.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\IKVM.Runtime.JNI.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WebDriver.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WebDriver.Support.dll
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WebDriver.xml
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\bin\Debug\WebDriver.Support.xml
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\[UIT]\HK6\tancongmang\Binary_BT1_NT230L21ANTT\WpfApp1 (1)\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
